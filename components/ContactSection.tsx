@@ -1,4 +1,3 @@
-import { contactLinks } from "@/utils/constants";
 import Link from "next/link";
 import { useRouter } from "next/navigation";
 import { FaGithub, FaLinkedin } from "react-icons/fa";
